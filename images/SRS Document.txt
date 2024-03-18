@@ -1,0 +1,43 @@
+Web Page 1 :- 
+	# ( As a BOC login interface logo and cover pic ) 
+	# About us, Contact us, Careers, Login
+
+Login interface :- 
+	# User name, User password, Forget password, Create profile and Register, Loging in, Contact us
+
+Create profile and register :- 
+	# User Account number, User name, User password,User Re-password, User phone number, User e-mail, Creat Profile
+	# After give all the informations the user has send again to home page and he has to give that user name and password. 
+ 	# After that he can log in to web app.
+	
+After give forget password :-
+	# input mobile number or e-mail
+	# Check the mobile number and Send OTP number
+	# Type OTP number
+	# Give access for the web app
+
+In the login web site( After give User name & User Password ) :-
+	# Search bar ( We can see all the functions in this web app ) 
+
+	# Do Transaction and check the history of transaction ( Deal with same bank or other banks ) ( Get other account number and name and amount of transfer to other account ) ( After that send msg to the phone )  
+
+	# Check balance ( Show current balance and show history of withdrwale and deposite )
+
+	# Contact with the bank ( give the hotline number or give access for the chat with bank )
+
+	# Pay bills ( Take the bill number, bill amount, do the transaction ) 
+
+	# Request the debit card from the bank ( give account number, account name, phone number, NIC, e-mail, local address )
+
+	# Request the loan ( The most priority has the bank. It is decided by bank ) ( In that dunction it is take the request loan amount, at least how much is can pay per each month, reason for request the loan, the requeste person job and his monthly salary ) 
+
+	# Check the profile and do changes
+
+	# Check-sheet transfer to money ( In this, how much is in the check sheet we can transfer that money into our account through the web. We send the photo of that check sheet through the web )
+
+	# Foriegn currency exchanges.
+
+
+
+https://www.figma.com/file/2RwDq4nbcJNBjq7lv6hfEV/Untitled?type=design&node-id=2%3A3&mode=design&t=DftPeqXJzubNA6vU-1
+	
